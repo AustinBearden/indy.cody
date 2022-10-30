@@ -1,4 +1,4 @@
-# indy.cody-
+# indy.cody- Oct. 19th, 2022
 Notes from 2022 Indy.Code()
 
 # Typescript (By Eric Potter from Sweetwater)
